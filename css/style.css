@@ -4,5 +4,10 @@ body {
 
 .container {
     width: 1120px;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-board {
+    background: url('../img/bkg.jpg');
 }
